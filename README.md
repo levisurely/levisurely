@@ -11,7 +11,7 @@
 
 -   :man: Pronouns: he/him.
 
--   :sunglasses: Follow caues I make cool stuff (I think) and cause I pro :sunglasses:
+-   :pencil: Arch Linux / i3-wm / Oh My Zsh/ VS Code / Firefox / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
 
 ---
 
@@ -39,14 +39,5 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 - [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
 
----
-
-#### Languages I Know
-
-- Arch Linux / i3-wm / Oh My Zsh 
-- VS Code / Firefox / SCSS / HTML 
-- Bash / JSON / Text / Python / JavaScript/
-
-<img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/languages.svg">
 
 
