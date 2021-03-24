@@ -39,6 +39,7 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 - [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
 
+---
 
 ### Spotify Playing 🎧
 
