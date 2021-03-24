@@ -41,3 +41,4 @@ SCSS   5 mins          █▓░░░░░░░░░░░░░░░░░
 
 
 
+[![Alek's's GitHub stats](https://github-readme-stats.vercel.app/api?username=alektherblxdev)](https://github.com/anuraghazra/github-readme-stats)
