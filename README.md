@@ -31,9 +31,10 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 #### :star2: Projects starred by me
 
+- [Kahoot Spammer](KahootSpammer.md)
+
 - [My Awesome Stars](AWESOME-STARS.md)
 
-- [Kahoot Spammer](KahootSpammer.md)
 
 #### :wrench: VS Code extensions I'm using
 
