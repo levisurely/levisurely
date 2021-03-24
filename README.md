@@ -38,3 +38,9 @@ SCSS   5 mins          █▓░░░░░░░░░░░░░░░░░
 #### :wrench: VS Code extensions I'm using
 
 [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
+
+
+
+<a href="https://https://now-playing-profile-green-mu.vercel.app//now-playing?open">
+    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
