@@ -40,6 +40,6 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 - [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
 
-
+<img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/languages.svg">
 
 
