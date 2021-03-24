@@ -7,12 +7,11 @@
 
 -   :package: Building A Roblox Multi Tool Bot :eyes:
 
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox / SCSS / HTML / Bash / JSON / Text / Python / JavaScript/
+-   :seedling: Preparing for Highschool.
 
--   :seedling: Preparing for Highschool
+-   :man: Pronouns: he/him.
 
--   :man: Pronouns: he/him
-
+-   :sunglasses: Follow caues yes.
 
 ---
 
@@ -39,6 +38,12 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 #### :wrench: VS Code extensions I'm using
 
 - [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
+
+---
+
+#### Languages I Know
+
+ :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox / SCSS / HTML / Bash / JSON / Text / Python / JavaScript/
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/languages.svg">
 
