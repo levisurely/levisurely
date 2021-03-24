@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
 -   👨‍💻I'm Alek, a student going into higschool. 
--  
+
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 
 -   :package: Building A Roblox Multi Tool Bot :eyes:
