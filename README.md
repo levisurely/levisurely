@@ -27,7 +27,7 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, Alek here! :wave: [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)]
+## Hey, Alek here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
@@ -37,7 +37,7 @@ I'm Alek, a student going into highschool :)
 -   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox
 -   :seedling: Preparing for Highschool
 -   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-
 
 ---
 
