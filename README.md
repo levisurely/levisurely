@@ -41,6 +41,4 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 
 
-<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
-    <img src="https://now-playing-profile-test.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+
