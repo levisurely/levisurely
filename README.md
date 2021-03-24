@@ -35,6 +35,8 @@ SCSS   5 mins          █▓░░░░░░░░░░░░░░░░░
 
 [My Awesome Stars](AWESOME-STARS.md)
 
+[Kahoot Spammer](KahootSpammer.md)
+
 #### :wrench: VS Code extensions I'm using
 
 [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
