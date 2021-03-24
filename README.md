@@ -17,13 +17,13 @@
 ---
 
 
-#### :bar_chart: Weekly development breakdown
+#### :bar_chart: Daily development breakdown
 
 <!--START_SECTION:waka-->
 ```text
-Python   26 mins       ███████████████░░░░░░░░░░   67.24 % 
-JSON   20 mins         ██████▒░░░░░░░░░░░░░░░░░░   23.45 % 
-HTML   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   9.31 % 
+Python 5 hours         ███████████████░░░░░░░░░░   67.24 % 
+JSON   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   23.45 % 
+HTML   55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   9.31 % 
 ```
 <!--END_SECTION:waka-->
 
