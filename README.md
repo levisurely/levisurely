@@ -29,8 +29,7 @@ Wish you a good-looking profile README!
 
 ## Hey, Alek here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-
+[<img align="right" width="50%" src=https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg&show_icons=true">]
 I'm Alek, a student going into highschool :)
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building A Roblox Multi Tool Bot :eyes:
