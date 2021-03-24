@@ -39,7 +39,7 @@ SCSS   5 mins          █▓░░░░░░░░░░░░░░░░░
 
 #### :wrench: VS Code extensions I'm using
 
-[My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
+- [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
 
 
 
