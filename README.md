@@ -1,4 +1,4 @@
-## Hey, Alek here! :wave:
+## Heya, Alek here! :wave:
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
 -   👨‍💻I'm Alek, a student going into higschool. 
