@@ -11,7 +11,7 @@
 
 -   :man: Pronouns: he/him.
 
--   :sunglasses: Follow caues yes.
+-   :sunglasses: Follow caues I make cool stuff (I think) and cause I pro :sunglasses:
 
 ---
 
@@ -43,7 +43,9 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 #### Languages I Know
 
- :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox / SCSS / HTML / Bash / JSON / Text / Python / JavaScript/
+- Arch Linux / i3-wm / Oh My Zsh 
+- VS Code / Firefox / SCSS / HTML 
+- Bash / JSON / Text / Python / JavaScript/
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/languages.svg">
 
