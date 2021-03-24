@@ -30,13 +30,18 @@ Wish you a good-looking profile README!
 ## Hey, Alek here! :wave:
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
-I'm Alek, a student going into highschool :)
+-   I'm Alek, a student going into highschool :)
+
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+
 -   :package: Building A Roblox Multi Tool Bot :eyes:
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox
+
+-   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox / SCSS / HTML / Bash / JSON / Text / 
+
 -   :seedling: Preparing for Highschool
+
 -   :man: Pronouns: he/him
--
+
 
 ---
 
