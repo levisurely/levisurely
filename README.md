@@ -33,9 +33,9 @@ Wish you a good-looking profile README!
 
 I'm Alek, a student going into highschool :)
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
+-   :package: Building A Roblox Multi Tool Bot :eyes:
 -   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox
--   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
+-   :seedling: Preparing for Highschool
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
