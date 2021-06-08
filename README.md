@@ -5,7 +5,7 @@
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit.
 
--   :package: Building A Roblox Multi Tool Bot :eyes:
+-   :package: Creates stuff related to ROBLOX
 
 -   :seedling: Preparing for Highschool.
 
