@@ -45,6 +45,7 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 [<img src="https://spotify-now-playing-ecru-kappa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/2yaxc17cthzjy4tu2evlvjt1d)
 
+---
 
 ### My Discord 
 
