@@ -40,6 +40,10 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 - [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
 
 ---
+### My Discord 
+
+<img src="https://discord.c99.nl/widget/theme-3/778778741886418965.png" />
+---
 
 ### Spotify Playing 🎧
 
@@ -47,6 +51,3 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 ---
 
-### My Discord 
-
-<img src="https://discord.c99.nl/widget/theme-3/778778741886418965.png" />
