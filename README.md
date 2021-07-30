@@ -25,20 +25,6 @@ JSON   3 hours         ██████▒░░░░░░░░░░░░
 HTML   55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   9.31 % 
 ```
 <!--END_SECTION:waka-->
-
----
-
-#### :star2: Projects starred by me
-
-- [Kahoot Spammer](KahootSpammer.md)
-
-- [My Awesome Stars](AWESOME-STARS.md)
-
-
-#### :wrench: VS Code extensions I'm using
-
-- [My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
-
 ---
 
 ### My Discord 
