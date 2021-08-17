@@ -32,3 +32,6 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 <img src="https://discord.c99.nl/widget/theme-3/778778741886418965.png" />
 
 ---
+
+
+[![Spotify](https://alektherblxdev.vercel.app/api/spotify)](https://open.spotify.com/user/2yaxc17cthzjy4tu2evlvjt1d)
