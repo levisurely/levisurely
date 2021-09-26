@@ -28,7 +28,7 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 ### My Discord 
 
-<img src="https://discord.c99.nl/widget/theme-2/778778741886418965.png"/>
+<img src="https://discord.c99.nl/widget/theme-3/778778741886418965.png"/>
 
 ---
 
