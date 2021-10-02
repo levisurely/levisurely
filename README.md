@@ -28,7 +28,7 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 
 ### My Discord 
 
-<img src="https://discord.c99.nl/widget/theme-3/778778741886418965.png"/>
+(https://lanyard-profile-readme.vercel.app/api/778778741886418965)](https://discord.com/users/778778741886418965)
 
 ---
 
