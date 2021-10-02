@@ -36,3 +36,21 @@ HTML   55 mins         ███▓░░░░░░░░░░░░░░░
 ### Spotify
 
 [![Spotify](https://novatorem-pi-five.vercel.app/api/spotify)](https://open.spotify.com/user/2yaxc17cthzjy4tu2evlvjt1d)
+
+
+### My Socials
+<a href="https://discord.com/users/778778741886418965">
+  <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCLuzUp85WGR6JUxF3RBWeMA">
+  <img align="left" alt="Youtube" width="20px" src="https://simpleicons.org/icons/youtube.svg" />
+</a>
+<a href="https://www.roblox.com/users/2294290965/profile">
+  <img align="left" alt="Roblox" width="20px" src="https://simpleicons.org/icons/roblox.svg" />
+</a>
+<a href="https://open.spotify.com/user/2yaxc17cthzjy4tu2evlvjt1d">
+  <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
+</a>
+
+
+
