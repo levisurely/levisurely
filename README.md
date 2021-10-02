@@ -5,9 +5,6 @@
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit.
 
--   :package: Creates stuff related to ROBLOX
-
-
 -   :man: Pronouns: he/him.
 
 -   :pencil: Arch Linux / i3-wm / Oh My Zsh/ VS Code / Firefox / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
