@@ -6,7 +6,7 @@
 
 -   :man: Pronouns: he/him.
 
--   :pencil: Arch Linux / i3-wm / Oh My Zsh/ VS Code / Firefox / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
+-   :pencil: Arch Linux / VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
 
 ---
 
@@ -17,7 +17,7 @@
 ```text
 Python 5 hours         ███████████████░░░░░░░░░░   67.24 % 
 JSON   3 hours         ██████▒░░░░░░░░░░░░░░░░░░   23.45 % 
-HTML   55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   9.31 % 
+HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
 <!--END_SECTION:waka-->
 ---
