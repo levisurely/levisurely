@@ -1,7 +1,6 @@
 ## Heya, Alek here! :wave:
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
--   :man_technologist: I'm Alek, a freshman in highschool. 
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit.
 
