@@ -47,9 +47,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 <a href="https://open.spotify.com/user/2yaxc17cthzjy4tu2evlvjt1d">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
 </a>
-</a>
 <a href="https://twitter.com/alekdevs">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
-
 
 
