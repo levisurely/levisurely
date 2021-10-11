@@ -6,7 +6,7 @@
 
 -   :man: Pronouns: he/him.
 
--   :pencil: Arch Linux / VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
+-   :pencil: VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
 
 ---
 
