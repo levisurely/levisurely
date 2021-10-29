@@ -28,12 +28,6 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
                             )](https://discord.com/users/778778741886418965)
 
 ---
-
-### Spotify
-
-[![Spotify](https://novatorem-pi-five.vercel.app/api/spotify)](https://open.spotify.com/user/2yaxc17cthzjy4tu2evlvjt1d)
-
----
 ### My Socials
 <a href="https://discord.com/users/778778741886418965">
   <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
