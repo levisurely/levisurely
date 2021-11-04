@@ -26,6 +26,8 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ![Visitor Count](https://profile-counter.glitch.me/alektherblxdev/count.svg)
 
+---
+
 ### My Discord 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778778741886418965
