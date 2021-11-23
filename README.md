@@ -34,7 +34,9 @@
 <a href="https://twitter.com/anticipatables">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
 </a>
-
+<a href="https://open.spotify.com/user/b41jq2mmbk2bik0ivpg7u27td">
+  <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
+</a>
 
 
 
