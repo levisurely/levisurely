@@ -23,6 +23,12 @@
 
 ---
 
+### My Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b41jq2mmbk2bik0ivpg7u27td&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ### My Socials
 
 <a href="https://discord.com/users/782773054673518594">
