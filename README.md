@@ -18,8 +18,8 @@
 
 ### My Discord 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/782773054673518594
-                            )](https://discord.com/users/782773054673518594)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725408724620935198
+                            )](https://discord.com/users/725408724620935198)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### My Socials
 
-<a href="https://discord.com/users/782773054673518594">
+<a href="https://discord.com/users/725408724620935198">
   <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
 <a href="https://www.roblox.com/users/481733029/profile">
