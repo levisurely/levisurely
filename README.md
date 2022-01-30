@@ -12,7 +12,7 @@
 
 ### Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/xenially/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/levisurely/count.svg)
 
 ---
 
@@ -37,7 +37,7 @@
 <a href="https://www.roblox.com/users/481733029/profile">
   <img align="left" alt="Roblox" width="20px" src="https://simpleicons.org/icons/roblox.svg" />
 </a>
-<a href="https://twitter.com/xeniallyy">
+<a href="https://twitter.com/levisurely">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/b41jq2mmbk2bik0ivpg7u27td">
