@@ -1,4 +1,4 @@
-## Xenially insane
+## catgirIz
 
 <img align="right" width="50%" src="https://github.com/xenially/epicstats/blob/master/generated/overview.svg">
 
@@ -12,7 +12,7 @@
 
 ### Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/levisurely/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/catgirIz/count.svg)
 
 ---
 
