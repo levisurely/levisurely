@@ -18,8 +18,7 @@
 
 ### My Discord 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725408724620935198
-                            )](https://discord.com/users/725408724620935198)
+[![Discord Presence](https://lanyard.cnrad.dev/api/725408724620935198)](https://discord.com/users/725408724620935198)
 
 ---
 
