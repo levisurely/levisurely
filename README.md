@@ -1,6 +1,6 @@
-## catgirIz
+## skyallaround
 
-<img align="right" width="50%" src="https://github.com/xenially/epicstats/blob/master/generated/overview.svg">
+<img align="right" width="50%" src="https://github.com/skyallaround/epicstats/blob/master/generated/overview.svg">
 
 -   ❓ If you wanna catch me discord is the right place.
 
@@ -12,7 +12,7 @@
 
 ### Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/catgirIz/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/skyallaround/count.svg)
 
 ---
 
