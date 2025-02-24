@@ -1,6 +1,6 @@
-## skyallaround
+## levisurely
 
-<img align="right" width="50%" src="https://github.com/skyallaround/epicstats/blob/master/generated/overview.svg">
+<img align="right" width="50%" src="https://github.com/levisurely/epicstats/blob/master/generated/overview.svg">
 
 -   ❓ If you wanna catch me discord is the right place.
 
