@@ -1,6 +1,4 @@
-levisurely skyallaround
-
-<img align="right" width="50%" src="https://github.com/levisurely/epicstats/blob/master/generated/overview.svg">
+# levisurely
 
 -   ❓ If you wanna catch me discord is the right place.
 
@@ -13,12 +11,6 @@ levisurely skyallaround
 ### Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/skyallaround/count.svg)
-
----
-
-### My Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b41jq2mmbk2bik0ivpg7u27td&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=b41jq2mmbk2bik0ivpg7u27td&redirect=true)
 
 ---
 
